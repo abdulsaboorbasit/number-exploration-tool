@@ -4,9 +4,13 @@ I am learning Gen AI Engineering course at PIAIC.
 
 ## Specializations
 There are following specs of me in which I have some knowledge.
+
 `1.` I have knowledge about how to do content research on [YouTube](www.youtube.com.pk).
+
 `2.` I have knowledge about how to create a catchy thumbnail using *Adobe Photoshop.*
+
 `3.` I have knowledge about how to use *Adobe Premier Pro* to do video editing.
+
 `4.` I have also knowledge about how to do SEO of youtube Videos.
 
 ### Future Learnings:
